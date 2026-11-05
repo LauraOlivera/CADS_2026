@@ -61,7 +61,7 @@ exploring fit results, morphology and spectral parameters.
 
 Prepared by Marie-Sophie Carrasco (APC, Paris). Location : room Denisse, Observatoire de Paris
 
-- Notebook : xxx
+- Notebook : [directory](./5.%203D%20analysis)
   
 
 <a name="simu"></a>
@@ -86,7 +86,8 @@ Prepared by Lea Heckmann (APC, Paris). Location : room Denisse, Observatoire de 
 **Project Session** : multiple options, each to be selected individually and supervised by the Gammapy experts
 - Individual follow-up study of the tutorials covered this morning,
 - Personal project,
-- or *Systematic Uncertainties* (user defined models, priors and nuisance parameters), prepared by Marie-Sophie Carrasco and Bruno Khélifi (APC, Paris)
+- or *Crab analysis with Systematic Uncertainties* (user defined models, priors and nuisance parameters), prepared by Marie-Sophie Carrasco and Bruno Khélifi (APC, Paris)
+  - Notebook: [directory](./Crab_analysis_project)
 
 Location : room Denisse, Observatoire de Paris
 
